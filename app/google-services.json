@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "761013904416",
+    "project_id": "inflearn-login",
+    "storage_bucket": "inflearn-login.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:761013904416:android:d2ec7097b7c29b88b78845",
+        "android_client_info": {
+          "package_name": "com.example.inflearn_login_test"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "761013904416-p8k4m688l90l8149gqotj5jsakepgu95.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBq2XUJ3gS-CkPWJi7I2yI0pD-yc0iy7II"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "761013904416-p8k4m688l90l8149gqotj5jsakepgu95.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
